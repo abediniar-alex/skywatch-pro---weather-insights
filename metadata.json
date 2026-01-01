@@ -1,0 +1,7 @@
+{
+  "name": "SkyWatch Pro - Weather Insights",
+  "description": "A sophisticated weather management dashboard with real-time tracking, historical data visualization, and secure user authentication.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
